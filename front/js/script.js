@@ -8,6 +8,7 @@ async function getArticles() {
 }
 
 // Repartition of the data from API in the DOM 
+async function displayItems() {
     var result = await getArticles ()
     .then(function (resultatAPI){
         const articles = resultatAPI;
