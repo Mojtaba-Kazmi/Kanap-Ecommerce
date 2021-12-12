@@ -150,8 +150,8 @@ main {
 	border-radius: 10px;
 }
 .items article img {
-	width: 160px;
-	height: 160px;
+	width: 250px;
+	height: 250px;
 	object-fit: cover;
 	border-radius: 10px;
 }
